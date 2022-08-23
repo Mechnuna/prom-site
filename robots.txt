@@ -11,5 +11,5 @@ Disallow: /*_escaped_fragment_*
 Disallow:
 
 
-Sitemap: http://fabrikakomleks.tilda.ws/sitemap.xml
-Host: fabrikakomleks.tilda.ws
+Sitemap: http://project5980409.tilda.ws/sitemap.xml
+Host: project5980409.tilda.ws

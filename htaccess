@@ -1,33 +1,9 @@
 ErrorDocument 403 /404.html
 ErrorDocument 404 /404.html
 
-DirectoryIndex page29215186.html
+DirectoryIndex page29835656.html
 
 RewriteEngine On
-
-RewriteCond %{REQUEST_FILENAME} /robots.txt
-RewriteCond "%{DOCUMENT_ROOT}/robots_%{HTTP_HOST}.txt" -f
-RewriteRule ^(.*)$ robots_%{HTTP_HOST}.txt [NC,L]
-RewriteRule ^asdfgfdsa$ page19364447.html [NC]
-RewriteRule ^asdfgfdsa/$ page19364447.html [NC]
-
-RewriteRule ^0$ page19364981.html [NC]
-RewriteRule ^0/$ page19364981.html [NC]
-
-RewriteRule ^asdfghfdsasdf$ page19423296.html [NC]
-RewriteRule ^asdfghfdsasdf/$ page19423296.html [NC]
-
-RewriteRule ^asdfghjgfdsa$ page22502376.html [NC]
-RewriteRule ^asdfghjgfdsa/$ page22502376.html [NC]
-
-RewriteRule ^sdfgnhmngf$ page22502408.html [NC]
-RewriteRule ^sdfgnhmngf/$ page22502408.html [NC]
-
-RewriteRule ^asdfgpig_fedor$ page22502435.html [NC]
-RewriteRule ^asdfgpig_fedor/$ page22502435.html [NC]
-
-RewriteRule ^asdfgh$ page22502479.html [NC]
-RewriteRule ^asdfgh/$ page22502479.html [NC]
 
 RewriteRule ^product/kolchedan$ page29840325.html [NC]
 RewriteRule ^product/kolchedan/$ page29840325.html [NC]
